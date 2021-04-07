@@ -16,5 +16,10 @@
             "email": "houqihui@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Url\\": "src/"
+        }
+    },
     "description": "This is a repo by houqihui"
 }
