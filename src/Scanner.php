@@ -17,7 +17,8 @@ class Scanner
 
     /**
      * 获取访问指定URL的HTTP状态码
-     * @return Client
+     * @param $url
+     * @return int
      */
     public function getStatusCodeForUrl($url)
     {

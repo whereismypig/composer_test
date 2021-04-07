@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/houqihui",
+    "name": "houqihui/houqihui",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
@@ -13,5 +13,6 @@
             "name": "houqihui",
             "email": "qihuihou@huashenggroups.com"
         }
-    ]
+    ],
+    "description": "This is a repo for houqihui"
 }
